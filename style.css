@@ -44,12 +44,12 @@ nav a:hover {
     color:  #FA0201;
 }
 .title {
-
+   
     position: fixed;
     width: 100%;
-    margin: auto;
+    margin: center;
     color: #000;
-    font-size: 5em;
+    font-size: 3em;
     text-align: center;
     background-color: var(--cor1);
     font-family: 'Joker';
@@ -63,6 +63,7 @@ h2 {
     font-family: 'Joker';
 }
 p {
+    padding-top: 50px;
 
     min-width: 400px;
     margin: 15px 0px;
