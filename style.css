@@ -44,6 +44,7 @@ nav a:hover {
     color:  #FA0201;
 }
 .title {
+
     position: fixed;
     width: 100%;
     margin: auto;
@@ -62,6 +63,7 @@ h2 {
     font-family: 'Joker';
 }
 p {
+
     min-width: 400px;
     margin: 15px 0px;
     text-indent: 30px;
