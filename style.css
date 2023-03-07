@@ -21,7 +21,7 @@ body {
     background-image: url(fotos/317-3175505_joelforbes-why-so-serious-smile-home-rug-joker.png);
     background-repeat: no-repeat;
     background-position: 50% 20%;
-    
+   
     
     
 }
@@ -44,7 +44,8 @@ nav a:hover {
     color:  #FA0201;
 }
 .title {
-    
+    position: fixed;
+    width: 100%;
     margin: auto;
     color: #000;
     font-size: 5em;
