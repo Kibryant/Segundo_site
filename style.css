@@ -52,7 +52,8 @@ nav a:hover {
     background-color: var(--cor1);
     font-family: 'Joker';
 } 
-main {
+main abbr {
+    text-decoration: none;
 
 }
 h2 {
